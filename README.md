@@ -5,3 +5,6 @@ The Real-time Natural Disaster Monitoring and Response System is a big data appl
 
 Real-time data collection and storage using Apache Kafka and Apache Hadoop Distributed File System (HDFS)
 Pre-processing of data using Apache Nifi to remove noise, perform quality checks, and normalize the data
+
+Big data analysis using machine learning algorithms to detect anomalies and patterns in the data
+Interactive visualization of data using Tableau and D3.js to create maps, charts, and graphs that show real-time data on natural disasters
