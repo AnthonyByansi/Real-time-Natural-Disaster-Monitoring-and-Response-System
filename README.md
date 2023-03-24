@@ -24,3 +24,4 @@ To run the Real-time Natural Disaster Monitoring and Response System, you will n
 To get started with the Real-time Natural Disaster Monitoring and Response System, follow these steps:
 * Clone the repository to your local machine
 * Install the required software (Apache Kafka, HDFS, Nifi, Spark, Tableau or D3.js)
+* Configure the system to collect data from your chosen sources (weather sensors, satellite imagery, social media, news reports, and emergency services)
