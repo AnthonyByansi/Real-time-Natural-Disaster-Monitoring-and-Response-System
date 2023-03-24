@@ -19,3 +19,5 @@ To run the Real-time Natural Disaster Monitoring and Response System, you will n
 * Apache Nifi for data pre-processing
 * Apache Spark for big data analysis
 * Tableau or D3.js for data visualization
+
+## Getting Started
