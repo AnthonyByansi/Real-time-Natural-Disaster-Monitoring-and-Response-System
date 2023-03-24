@@ -12,3 +12,5 @@ The Real-time Natural Disaster Monitoring and Response System is a big data appl
 ## Requirements
 
 To run the Real-time Natural Disaster Monitoring and Response System, you will need:
+* Apache Kafka for real-time data collection and processing
+* Apache Hadoop Distributed File System (HDFS) for data storage
