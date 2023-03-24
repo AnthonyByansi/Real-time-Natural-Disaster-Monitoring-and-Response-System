@@ -26,3 +26,4 @@ To get started with the Real-time Natural Disaster Monitoring and Response Syste
 * Install the required software (Apache Kafka, HDFS, Nifi, Spark, Tableau or D3.js)
 * Configure the system to collect data from your chosen sources (weather sensors, satellite imagery, social media, news reports, and emergency services)
 * Run the system and monitor the real-time data on natural disasters
+* Configure the system to send automated alerts to emergency services when a natural disaster is detected
