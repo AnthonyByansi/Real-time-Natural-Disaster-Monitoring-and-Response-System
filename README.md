@@ -27,3 +27,6 @@ To get started with the Real-time Natural Disaster Monitoring and Response Syste
 * Configure the system to collect data from your chosen sources (weather sensors, satellite imagery, social media, news reports, and emergency services)
 * Run the system and monitor the real-time data on natural disasters
 * Configure the system to send automated alerts to emergency services when a natural disaster is detected
+
+## Contributors
+The Real-time Natural Disaster Monitoring and Response System was developed by a team of experienced big data developers and data scientists. If you are interested in contributing to the project, please feel free to submit a pull request or contact the project leads for more information.
