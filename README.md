@@ -36,3 +36,7 @@ The Real-time Natural Disaster Monitoring and Response System was developed by a
 ## License
 
 The Real-time Natural Disaster Monitoring and Response System is released under the MIT License. See the LICENSE file for more information.
+
+## Acknowledgements
+
+The Real-time Natural Disaster Monitoring and Response System was inspired by the need to improve the response times of emergency services and reduce the impact of natural disasters on communities around the world. We would like to thank all of the individuals and organizations that have contributed to the development of this project, including the Apache Software Foundation, Tableau, D3.js, and the many open source communities that have made this project possible.
