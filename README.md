@@ -21,3 +21,4 @@ To run the Real-time Natural Disaster Monitoring and Response System, you will n
 * Tableau or D3.js for data visualization
 
 ## Getting Started
+To get started with the Real-time Natural Disaster Monitoring and Response System, follow these steps:
