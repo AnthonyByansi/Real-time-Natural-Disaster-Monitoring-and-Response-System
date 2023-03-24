@@ -32,3 +32,7 @@ To get started with the Real-time Natural Disaster Monitoring and Response Syste
 ## Contributors
 
 The Real-time Natural Disaster Monitoring and Response System was developed by a team of experienced big data developers and data scientists. If you are interested in contributing to the project, please feel free to submit a pull request or contact the project leads for more information.
+
+## License
+
+The Real-time Natural Disaster Monitoring and Response System is released under the MIT License. See the LICENSE file for more information.
