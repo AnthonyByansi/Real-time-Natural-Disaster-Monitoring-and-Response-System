@@ -27,3 +27,6 @@ The data visualization component is responsible for displaying the data generate
 
 ### Alerting Component
 The alerting component is responsible for notifying emergency responders and the public about the disaster. The alerting component must be reliable and capable of providing timely alerts to ensure that emergency responders can respond quickly.
+
+### Contributing Guidelines
+To ensure that the real-time natural disaster monitoring and response system is robust, reliable, and capable of providing timely information, developers, engineers, and data scientists must follow the following guidelines
