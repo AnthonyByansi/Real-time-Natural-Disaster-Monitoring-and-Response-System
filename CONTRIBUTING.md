@@ -15,3 +15,6 @@ The real-time natural disaster monitoring and response system is a complex syste
 
 ### Data Acquisition Component
 This component is responsible for collecting data from various sources, including sensors, satellite imagery, and social media. The data collected is then processed to generate real-time information about the disaster.
+
+### Data Processing Component
+This component is responsible for processing the data collected by the data acquisition component. The data processing component uses various algorithms to generate real-time information about the disaster, including its location, magnitude, and impact.
