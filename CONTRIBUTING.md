@@ -9,3 +9,6 @@ Natural disasters such as earthquakes, floods, hurricanes, and wildfires are unp
 
 The purpose of this document is to establish a set of guidelines for developers, engineers, and data scientists to follow when contributing to the development of a real-time natural disaster monitoring and response system. The guidelines aim to ensure that the system is robust, reliable, and capable of providing timely information to emergency responders and the public.
 
+# System Architecture
+
+
