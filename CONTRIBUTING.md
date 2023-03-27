@@ -13,5 +13,5 @@ The purpose of this document is to establish a set of guidelines for developers,
 
 The real-time natural disaster monitoring and response system is a complex system that consists of several components. The system architecture is designed to ensure that the system is scalable, reliable, and can handle large amounts of data. The system components include:
 
-~ ### Data Acquisition Component
+### Data Acquisition Component
 This component is responsible for collecting data from various sources, including sensors, satellite imagery, and social media. The data collected is then processed to generate real-time information about the disaster.
