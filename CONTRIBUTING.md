@@ -11,4 +11,4 @@ The purpose of this document is to establish a set of guidelines for developers,
 
 # System Architecture
 
-
+The real-time natural disaster monitoring and response system is a complex system that consists of several components. The system architecture is designed to ensure that the system is scalable, reliable, and can handle large amounts of data. The system components include:
